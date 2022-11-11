@@ -1,0 +1,6 @@
+# step 1 install package
+pip install -r requirements.txt
+# step2 start project
+python manage.py runserver
+# step3 visit url
+http://localhost:8000/polls/execl2word
